@@ -6,5 +6,26 @@
     "graceful-fs": "^4.2.11",
     "inquirer": "^8.2.4",
     "svg": "^0.1.0"
-  }
+  },
+  "name": "logo.creator",
+  "description": "by Oswaldo O. Felix Thompson\r   ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)\r   ## Table Of Contents\r   * [Description](#description)\r   * [Requirements](#requirements)\r   * [Licenses](#licenses)\r   * [Usage](#usage)\r   * [Contributors](#contributors)\r   * [Contact-Me](#contact-me)\r   * [Testing](#testing)\r   https://opensource.org/licenses/MIT\r   ## Description\r   Logo Creator will allow user to create a logo of his taste by describing its properties to specified questions that will then  prompt a svg file to allow user to view it's creation.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperFeeeelix/Logo.Creator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuperFeeeelix/Logo.Creator/issues"
+  },
+  "homepage": "https://github.com/SuperFeeeelix/Logo.Creator#readme"
 }
