@@ -20,16 +20,15 @@ by Oswaldo O. Felix Thompson
    
   ## Requirements
   inquirer @8.2.4
+
   ## Usage
-  nodejs and javaScript
+  nodejs
+  javaScript
   ## Contact-Me
   * Name - Oswaldo O. Felix Thompson
   * Email - Oswaldo_felix@outlook.com
   * Github - [superfeeeelix](https://github.com/superfeeeelix/)
-  ## Contributors
-  N/a
-  ## Testing
-  N/a
+ 
   ## Questions
   Please send your questions [here](malito:Oswaldo_felix@outlook.com)
   ## License
