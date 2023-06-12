@@ -33,7 +33,7 @@ const questions = [
     },
     {
         type: "input",
-        name: "fontColor",
+        name: "text-color",
         message: "TEXT COLOR: Enter a color keyword (OR a hexadecimal number):",
     },
     {
