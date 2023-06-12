@@ -15,8 +15,13 @@ by Oswaldo O. Felix Thompson
 
   ## Video Walkthrough
 
+
+https://github.com/SuperFeeeelix/Logo.Creator/assets/127154412/f761dd75-485f-4951-87a2-e77c7063facf
+
+
+
   ## ScreenShot
-  
+  ![logo creator pic](https://github.com/SuperFeeeelix/Logo.Creator/assets/127154412/21b60277-a104-4fb8-9251-616c89e38d24)
    
   ## Requirements
   inquirer @8.2.4
